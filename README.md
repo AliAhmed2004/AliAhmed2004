@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hey there!<br>🧑‍💻 I'm Ali, a data science student at Wilfrid Laurier University.<br>🌱 I've got experience working on both frontend and backend development projects, as well as with AI and machine learning.<br>📈 Right now, I'm super excited to be working on two projects - one focused on analyzing stocks and another exploring the world of virtual private networks.<br>💬 If you have any questions about data science, full-stack development, AI, or machine learning, feel free to ask!
 
 
